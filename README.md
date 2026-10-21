@@ -1,6 +1,6 @@
 # Priyansh Jain — Portfolio
 
-A responsive personal portfolio website for **Priyansh Jain**, presented as a web designer and digital creative. The site highlights an introduction, design and development skills, selected frontend projects, and contact options.
+A responsive personal portfolio website of **Priyansh Jain**, presented as a web designer and digital creative. The site highlights an introduction, design and development skills, selected frontend projects, and contact options.
 
 ## Features
 
